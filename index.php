@@ -31,6 +31,7 @@
 	    echo "</tr>";
 	    echo "<br>";
 	    echo "string";
+	    echo "string";
 	}
 	echo "</table>";
 	echo "Today is " . date("l") . "<br>";
